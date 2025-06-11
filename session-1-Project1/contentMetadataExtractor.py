@@ -117,7 +117,7 @@ for imdb_id, response in httpResponsesSet.items():
             # Fragile, as IMDb may change the HTML structure.
             actorName       = actor.find('a', class_='ipc-link ipc-link--base name-credits--title-text name-credits--title-text-big').text.strip()
             characterName   = actor.find('a', class_='ipc-link ipc-link--base ipc-link--inherit-color').text.strip()
-            # href pattern is: /name/nm1519666/..., so splitting by '/' and taking the 4th element gives us the IMDb actor ID.
+            # href pattern is: .../name/nm1519666/..., so splitting by '/' and taking the element gives us the IMDb actor ID.
             actorId         = actor.find('a', class_='ipc-link ipc-link--base ipc-link--inherit-color')['href'].split('/')[4]
             actorInstance = Actor(actorName, characterName, actorId)
             
