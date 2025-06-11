@@ -1,5 +1,6 @@
 See contentMetadataExtractor.py file for details.
 
+See the Expected-Output.txt file for what the .py script should be producing.
 
 Notes:
 python -m venv s1-project1-env
