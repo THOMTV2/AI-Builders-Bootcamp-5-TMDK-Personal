@@ -1,0 +1,70 @@
+Running the script, this is what You should expect to see in the output:
+
+SimMode: True - Requesting The Day of the Jackal: https://www.imdb.com/title/tt24053860/fullcredits/
+SimMode: True - Requesting The Night Manager: https://www.imdb.com/title/tt1399664/fullcredits/
+SimMode: True - Requesting Chernobyl: https://www.imdb.com/title/tt7366338/fullcredits/
+SimMode: True - Requesting True Detectives: https://www.imdb.com/title/tt2356777/fullcredits/
+SimMode: True - Requesting Das Boot: https://www.imdb.com/title/tt0081834/fullcredits/
+All responses processed.
+
+Series: The Day of the Jackal (IMDb ID: tt24053860)
+ActorId: nm1519666, Actor: Eddie Redmayne, Character: The Jackal
+ActorId: nm2736476, Actor: Lashana Lynch, Character: Bianca Pullman
+ActorId: nm1915282, Actor: Eleanor Matsuura, Character: Zina Jansone
+ActorId: nm1030244, Actor: Chukwudi Iwuji, Character: Osita Halcrow
+ActorId: nm2216549, Actor: �rsula Corber�, Character: Nuria
+ActorId: nm6623407, Actor: Ben Hall, Character: Damian Richardson
+ActorId: nm0931165, Actor: Lia Williams, Character: Isabel Kirby
+ActorId: nm2721631, Actor: Jon Arias, Character: Alvaro
+ActorId: nm2043234, Actor: Khalid Abdalla, Character: Ulle Dag Charles
+ActorId: nm2059560, Actor: Sule Rimi, Character: Paul Pullman
+
+Series: Natportieren - The Night Manager (IMDb ID: tt1399664)
+ActorId: nm1089991, Actor: Tom Hiddleston, Character: Jonathan Pine
+ActorId: nm1469236, Actor: Olivia Colman, Character: Angela Burr
+ActorId: nm0677944, Actor: Alistair Petrie, Character: Sandy Langbourne
+ActorId: nm0621382, Actor: Michael Nardone, Character: Frisky
+ActorId: nm0491402, Actor: Hugh Laurie, Character: Richard Roper
+ActorId: nm4456120, Actor: Elizabeth Debicki, Character: Jed Marshall
+ActorId: nm3986032, Actor: Hovik Keuchkerian, Character: Tabby
+ActorId: nm0388061, Actor: Douglas Hodge, Character: Rex Mayhew
+ActorId: nm2253821, Actor: Adeel Akhtar, Character: Rob Singhal
+ActorId: nm0390903, Actor: Tom Hollander, Character: Lance Corkoran
+
+Series: Chernobyl (IMDb ID: tt7366338)
+ActorId: nm2976580, Actor: Jessie Buckley, Character: Lyudmilla Ignatenko
+ActorId: nm0364813, Actor: Jared Harris, Character: Valery Legasov
+ActorId: nm0001745, Actor: Stellan Skarsg�rd, Character: Boris Shcherbina
+ActorId: nm1835523, Actor: Adam Nagaitis, Character: Vasily Ignatenko
+ActorId: nm0001833, Actor: Emily Watson, Character: Ulana Khomyuk
+ActorId: nm0728795, Actor: Paul Ritter, Character: Anatoly Dyatlov
+ActorId: nm3016166, Actor: Robert Emms, Character: Leonid Toptunov
+ActorId: nm0873744, Actor: Sam Troughton, Character: Alexandr Akimov
+ActorId: nm0203801, Actor: Karl Davies, Character: Viktor Proskuryakov
+ActorId: nm2523072, Actor: Michael Socha, Character: Mikhail
+
+Series: True Detective (IMDb ID: tt2356777)
+ActorId: nm0000190, Actor: Matthew McConaughey, Character: Detective Rust Cohle
+ActorId: nm0268199, Actor: Colin Farrell, Character: Detective Ray Velcoro
+ActorId: nm0991810, Actor: Mahershala Ali, Character: Detective Wayne Hays
+ActorId: nm0000437, Actor: Woody Harrelson, Character: Detective Marty Hart
+ActorId: nm1046097, Actor: Rachel McAdams, Character: Detective Ani Bezzerides
+ActorId: nm0252238, Actor: Carmen Ejogo, Character: Amelia Reardon
+ActorId: nm1157358, Actor: Michelle Monaghan, Character: Maggie Hart
+ActorId: nm2018237, Actor: Taylor Kitsch, Character: Officer Paul Woodrugh
+ActorId: nm0001151, Actor: Stephen Dorff, Character: Detective Roland West
+ActorId: nm0693446, Actor: Michael Potts, Character: Detective Maynard Gilbough
+
+Series: Das Boot (IMDb ID: tt0081834)
+ActorId: nm0001638, Actor: J�rgen Prochnow, Character: Der Alte
+ActorId: nm0344963, Actor: Herbert Gr�nemeyer, Character: Leutnant Werner
+ActorId: nm0921044, Actor: Klaus Wennemann, Character: Leitender Ingenieur (LI)
+ActorId: nm0071059, Actor: Hubertus Bengsch, Character: Erster Wachoffizier (I WO)
+ActorId: nm0783847, Actor: Martin Semmelrogge, Character: Zweiter Wachoffizier (II WO)
+ActorId: nm0851427, Actor: Bernd Tauber, Character: Obersteuermann
+ActorId: nm0496441, Actor: Erwin Leder, Character: Johann, das Gespenst
+ActorId: nm0562056, Actor: Martin May, Character: Ullmann
+ActorId: nm0388517, Actor: Heinz Hoenig, Character: Hinrich
+ActorId: nm0643805, Actor: Uwe Ochsenknecht, Character: Bootsmann
+
+Execution completed.
