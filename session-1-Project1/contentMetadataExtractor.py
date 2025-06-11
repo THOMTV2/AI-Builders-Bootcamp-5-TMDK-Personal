@@ -111,8 +111,6 @@ for imdb_id, response in httpResponsesSet.items():
         # Limit the number of actors to process
         cast_list_subset = cast_list[:actorLimit]
 
-        actorCount = 0  # Counter to limit the number of actors processed
-
         for actor in cast_list_subset:
             
             # Actors are divided into Name and Character div/a, i.e. 2 elements per actor.
